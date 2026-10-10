@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-10T18:41:00+08:00",
+  "counts": {
+    "important_mail": 0,
+    "todos_open": 0,
+    "approvals_pending": 0
+  },
+  "briefing": [
+    "状态牌已上线",
+    "Status badge is online"
+  ],
+  "message": "Hello from Grok Bot"
+}
